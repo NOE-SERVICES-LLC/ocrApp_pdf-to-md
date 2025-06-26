@@ -10,7 +10,7 @@ This Python tool converts scanned PDF documents into clean, structured Markdown 
 
 ```bash
 git clone <your-repo-url>
-cd OCRtool
+cd ocrApp_pdf-to-md
 ```
 
 ### 2. Install required Python packages
