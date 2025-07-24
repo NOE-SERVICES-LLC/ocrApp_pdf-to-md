@@ -62,15 +62,16 @@ py ocrApp.py
 ## ✅ Output Example
 
 ```markdown
-# Anorexia Nervosa: Outpatient Care
+Guideline Scope
+Cardiac rhythm monitoring devices fall broadly into the following categories:
+1.	Implantable recording devices — Devices implanted subcutaneously which continuously record and
+transmit cardiac electrical activity. This device is also known as implantable loop recorder (ILR).
+2.	Mobile cardiac outpatient telemetry — External ambulatory monitoring devices capable of real-time
+recording and automatic transmission of cardiac electrical activity. These devices are also known as
+mobile outpatient cardiac telemetry or real-time remote heart monitors.
+3.	Ambulatory event monitors — External devices which can record cardiac electrical activity for up to 30
+days.
 
-Admission criteria:
-- BMI above 17
-- No acute medical risk
-
-Treatment options:
-- Family therapy
-- Meal supervision
 ```
 
 ---
